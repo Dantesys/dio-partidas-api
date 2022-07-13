@@ -1,6 +1,6 @@
 [
   {
-    "desc": "Amistoso",
+    "desc": "Fase de Grupo",
     "local": {
       "nome": "Campo de treino",
       "img": "TODO"
@@ -17,7 +17,7 @@
     }
   },
   {
-    "desc": "Amistoso",
+    "desc": "Fase de Grupo",
     "local": {
       "nome": "Campo de treino",
       "img": "TODO"
@@ -34,7 +34,7 @@
     }
   },
   {
-    "desc": "Amistoso",
+    "desc": "Fase de Grupo",
     "local": {
       "nome": "Campo de treino",
       "img": "TODO"
@@ -48,6 +48,23 @@
       "nome": "Japão",
       "forca": 4,
       "img": "https://www.bandeirasnacionais.com/data/flags/w702/jp.webp"
+    },
+    {
+    "desc": "Fase de Grupo",
+    "local": {
+      "nome": "Campo de treino",
+      "img": "TODO"
+    },
+    "casa": {
+      "nome": "China",
+      "forca": 3,
+      "img": "https://www.bandeirasnacionais.com/data/flags/w702/cn.webp"
+    },
+    "fora": {
+      "nome": "Argentina",
+      "forca": 5,
+      "img": "https://www.bandeirasnacionais.com/data/flags/w702/ar.webp"
     }
+  },
   }
 ]
