@@ -15,5 +15,22 @@
       "forca": 5,
       "img": "https://www.bandeirasnacionais.com/data/flags/w702/ar.webp"
     }
+  },
+  {
+    "desc": "Amistoso",
+    "local": {
+      "nome": "Campo de treino",
+      "img": "TODO"
+    },
+    "casa": {
+      "nome": "Japão",
+      "forca": 4,
+      "img": "https://www.bandeirasnacionais.com/data/flags/w702/jp.webp"
+    },
+    "fora": {
+      "nome": "China",
+      "forca": 3,
+      "img": "https://www.bandeirasnacionais.com/data/flags/w702/cn.webp"
+    }
   }
 ]
