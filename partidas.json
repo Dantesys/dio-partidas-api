@@ -1,0 +1,19 @@
+[
+  {
+    "desc": "Amistoso",
+    "local": {
+      "nome": "Campo de treino",
+      "img": "TODO"
+    },
+    "casa": {
+      "nome": "Flamengo",
+      "forca": 5,
+      "img": "TODO"
+    },
+    "fora": {
+      "nome": "Vasco",
+      "forca": 3,
+      "img": "TODO"
+    }
+  }
+]
