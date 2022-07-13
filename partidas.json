@@ -49,7 +49,8 @@
       "forca": 4,
       "img": "https://www.bandeirasnacionais.com/data/flags/w702/jp.webp"
     },
-    {
+  },
+  {
     "desc": "Fase de Grupo",
     "local": {
       "nome": "Campo de treino",
@@ -65,6 +66,5 @@
       "forca": 5,
       "img": "https://www.bandeirasnacionais.com/data/flags/w702/ar.webp"
     }
-  },
   }
 ]
